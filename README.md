@@ -337,19 +337,19 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](./images/homepage.png)
 
 ### Products:
 
-![output](./images/homepage.jpg)
+![output](./images/products.png)
 
 ### Peoples:
 
-![output](./images/homepage.jpg)
+![output](./images/peoples.png)
 
 ### Contact Us:
 
-![output](./images/homepage.jpg)
+![output](./images/about.png)
 
 ## Result:
 
