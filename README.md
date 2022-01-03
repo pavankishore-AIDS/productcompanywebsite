@@ -355,19 +355,19 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.png)
+![output](home.png)
 
 ### Products:
 
-![output](./images/products.png)
+![output](product.png)
 
 ### Peoples:
 
-![output](./images/peoples.png)
+![output](people.png)
 
 ### Contact Us:
 
-![output](./images/about.png)
+![output](contact.png)
 
 ## Result:
 
