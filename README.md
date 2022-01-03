@@ -308,6 +308,7 @@ Publish the website in the given URL.
 
 </html>
 
+
 ~~~
 ### Contact Us:
 ~~~
@@ -355,19 +356,19 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](home.png)
+![output](./images/home.png)
 
 ### Products:
 
-![output](product.png)
+![output](./images/product.png)
 
 ### Peoples:
 
-![output](people.png)
+![output](./images/people.png)
 
 ### Contact Us:
 
-![output](contact.png)
+![output](./images/contact.png)
 
 ## Result:
 
